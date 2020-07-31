@@ -7,4 +7,4 @@ To use trained InferSent trained model, refer to the following : https://github.
 
 To test, run run.py and ask a question from the SQuAD dataset
 
-Achieved an accuracy of 65%
+Achieved an accuracy of 63%
