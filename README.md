@@ -5,4 +5,4 @@ Tested on SQuAD dataset v1.0. To test, download it from the following link and p
 
 To use trained InferSent trained model, refer to the following : https://github.com/facebookresearch/InferSent
 
-To use, run test.py
+To test, run test.py
